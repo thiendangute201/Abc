@@ -1,0 +1,14 @@
+F:\HK2_2020 - 2021\C#\Co_ban\PTbac2\obj\Debug\PTbac2.csproj.CoreCompileInputs.cache
+F:\HK2_2020 - 2021\C#\Co_ban\PTbac2\bin\Debug\PTbac2.exe.config
+F:\HK2_2020 - 2021\C#\Co_ban\PTbac2\bin\Debug\PTbac2.exe
+F:\HK2_2020 - 2021\C#\Co_ban\PTbac2\bin\Debug\PTbac2.pdb
+F:\HK2_2020 - 2021\C#\Co_ban\PTbac2\obj\Debug\PTbac2.exe
+F:\HK2_2020 - 2021\C#\Co_ban\PTbac2\obj\Debug\PTbac2.pdb
+F:\HK2_2020 - 2021\C#\Co_ban\PTbac2\obj\Debug\PTbac2.csprojAssemblyReference.cache
+F:\HK2_2020 - 2021\C#\Test\Co_ban\PTbac2\bin\Debug\PTbac2.exe.config
+F:\HK2_2020 - 2021\C#\Test\Co_ban\PTbac2\bin\Debug\PTbac2.exe
+F:\HK2_2020 - 2021\C#\Test\Co_ban\PTbac2\bin\Debug\PTbac2.pdb
+F:\HK2_2020 - 2021\C#\Test\Co_ban\PTbac2\obj\Debug\PTbac2.csprojAssemblyReference.cache
+F:\HK2_2020 - 2021\C#\Test\Co_ban\PTbac2\obj\Debug\PTbac2.csproj.CoreCompileInputs.cache
+F:\HK2_2020 - 2021\C#\Test\Co_ban\PTbac2\obj\Debug\PTbac2.exe
+F:\HK2_2020 - 2021\C#\Test\Co_ban\PTbac2\obj\Debug\PTbac2.pdb
